@@ -9,7 +9,7 @@
 - Online C++ Compiler   
 
 
-## 1 – Linear Queue using Array  
+## 1. – Linear Queue using Array  
 
 ### Theory of Code:-
 
